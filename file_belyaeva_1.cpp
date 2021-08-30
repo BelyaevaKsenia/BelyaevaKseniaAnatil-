@@ -2,5 +2,5 @@
 using namespace std;
 int main() 
 {
-    cout<<"Вывод сообщения 5"<<endl;
+    cout<<"Версия файла file_belyaeva_1.cpp (1)"<<endl;
 }
